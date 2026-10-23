@@ -17,7 +17,7 @@
     "name": "vectorcraft"
   },
   "meta": {
-    "description": "Vectorcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "description": "VectorCraft, an open-source creative app from the ArtCraft Craft app suite",
     "homepage": "https://github.com/storytold/vectorcraft",
     "licenseSpdx": "MIT OR Apache-2.0"
   }
