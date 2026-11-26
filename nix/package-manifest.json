@@ -3,15 +3,15 @@
     "type": "github-release",
     "owner": "storytold",
     "repo": "vectorcraft",
-    "version": "0.16.0",
-    "tag": "v0.16.0",
-    "archive": "vectorcraft-0.16.0-linux-x86_64.tar.gz",
-    "url": "https://github.com/storytold/vectorcraft/releases/download/v0.16.0/vectorcraft-0.16.0-linux-x86_64.tar.gz",
-    "hash": "sha256-ZR+sFyVSca0dvIuh6Ch9ufKOUpupoU3QOD7Kk6LMWqY="
+    "version": "0.24.1",
+    "tag": "v0.24.1",
+    "archive": "vectorcraft-0.24.1-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/vectorcraft/releases/download/v0.24.1/vectorcraft-0.24.1-linux-x86_64.tar.gz",
+    "hash": "sha256-oJBRQlL94UVJWsb8Zdb/ExHWmJmOV7pDTV0IlsPR+/o="
   },
   "package": {
     "repo": "vectorcraft",
-    "version": "0.16.0"
+    "version": "0.24.1"
   },
   "binary": {
     "name": "vectorcraft"
